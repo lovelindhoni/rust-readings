@@ -10,3 +10,5 @@ collection of awesome rust writings that makes me doubt whether am I writing rus
 - [elegant-library-apis-in-rust](https://deterministic.space/elegant-apis-in-rust.html)
 - [understanding-async-await-rust-series](https://hegdenu.net/posts/understanding-async-await-1/)
 - [is-this-trait-sealed-or-not-sealed](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
+- [common-rust-lifetime-misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+- [tour-of-rust-standard-library-traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
